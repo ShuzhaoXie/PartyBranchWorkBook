@@ -20,15 +20,15 @@ Bmob云+《第一行代码》
 
 ### 设置界面
 
-![3](asserts/settings.jpg)
+![3](asserts/Settings.jpg)
 
 ### 主界面
 
-![4](asserts/homepage.jpg)
+![4](asserts/Homepage.jpg)
 
 ### 新闻界面
 
-![5](asserts/news.jpg)
+![5](asserts/News.jpg)
 
 ### Events
 
